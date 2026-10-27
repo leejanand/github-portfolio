@@ -1,6 +1,6 @@
 
 ## 👤 Leejanand B
-**Associate Team Lead QA | Playwright (TypeScript) |Selenium (Java)**
+**Associate Team Lead QA | Playwright (TypeScript) | Selenium (Java)**
 
 ---
 
@@ -79,7 +79,7 @@ Designed and implemented a robust Playwright automation framework to validate cr
 ## Contact
 
 - **GitHub:** https://github.com/leejanand  
-- **LinkedIn:** https://www.linkedin.com/in/leejanand-b-493326b9
+- **LinkedIn:** https://www.linkedin.com/in/leejanand-qa
 - **Email:** leej27293@gmail.com
 
 ---
